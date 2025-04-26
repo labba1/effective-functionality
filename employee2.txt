@@ -1,0 +1,2 @@
+ID	Name	Basic Salary	Transport Allowance	Income Tax	Net Salary
+11	wee	23456.00	1.00	8209.95	15247.05
